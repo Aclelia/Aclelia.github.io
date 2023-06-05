@@ -1397,7 +1397,7 @@ footer ul
 
 .footer a
 {
-    color: #A77244;
+    color: #CB8D55;
 	background: #151d22;
 }
 
@@ -1423,11 +1423,13 @@ footer ul
 
 ul.copyright-holder
 {
+	margin-top: 80px;
     font-size: 14px;
 }
 
 ul.copyright-holder:after
 {
+	margin-top: 80px;
     content: "";
     display: block;
     clear: both;
