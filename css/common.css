@@ -443,8 +443,7 @@ div.pp_default .pp_content_container .pp_details
 }
 
 div.pp_default .pp_description 
-{
-    font-family: 'Lato', sans-serif;
+{font-family: 'Inter', sans-serif;
     font-size: 15px;
     line-height: 30px;
     position: absolute;
@@ -461,8 +460,7 @@ div.pp_default .pp_description
     background-color: #F4F4F1;    
     color: #000;
     font-size: 12px;
-    font-weight: 400;
-    font-family: 'Lato', sans-serif;
+    font-weight: 400;font-family: 'Inter', sans-serif;
     padding-left: 20px;
 }
 
