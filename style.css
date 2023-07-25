@@ -1872,3 +1872,20 @@ li.social-footer a:first-child
     }
 
 }
+
+
+@media screen and (max-width: 630px) {  
+    .single-portfolio .nav-links 
+    {
+        padding-top: 0px;
+    }
+}
+
+
+@media screen and (max-width:480px) {
+     .team.holder .member-info {
+        min-height: auto;
+        padding-bottom: 0;
+        margin-bottom: 0; 
+     }   
+}
